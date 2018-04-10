@@ -1,6 +1,6 @@
 /* 16px == 1rem */
-html { font-size: 16px; }
-
+/*html { font-size: 16px; }
+/* 
 img {
   width: 25%
 }
@@ -8,7 +8,7 @@ img {
 .amendment-title {
   color: green;
   text-align: center;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .amendment-title:hover {
@@ -28,12 +28,12 @@ img {
 }
 
 /* nested selector -- selects <p> inside .document-history */
-.document-history p {
+/*.document-history p {
   width: 50%;
-}
-
+}/*
+/*
 .document-history h4 {
-  background-color: #FFEFD5;
+  background-color: #FFEFD5;height: 25rem
 }
 
 #bill-of-rights {
@@ -41,5 +41,5 @@ img {
 }
 
 .highlight {
-  background-color: salmon;
-}
+  background-color: salmon; padding: 25rem
+}/* */
