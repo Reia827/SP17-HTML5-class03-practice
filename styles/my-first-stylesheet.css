@@ -54,3 +54,13 @@ aside p {
   text-align: center;
   font-size: 2rem;
 }
+article {
+  padding: 2rem
+    background-color: pink
+    width: 40%
+    margin:auto
+    
+}
+aside p {
+  font-family: "Gadugi"
+}
