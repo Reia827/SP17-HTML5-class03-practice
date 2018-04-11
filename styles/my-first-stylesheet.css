@@ -42,25 +42,23 @@ img {
 
 .highlight {
   background-color: salmon; padding: 25rem
-}/* */
+} */
+
 aside p {
-  padding: 2rem;
+  font-family: "Arial"
+}
+aside p {
+  padding: 1px;
+  height: 10rem;
   background-color: lavender;
-    width: 40%;
-  margin:auto
+  width: 40%;
+  margin: auto;
 }
-.amedment-title {
-  color: skyblue;
-  text-align: center;
-  font-size: 2rem;
-}
+
 article {
-  padding: 2rem
-    background-color: pink
-    width: 40%
-    margin:auto
+  padding: 2rem;
+  background-color: pink;
+  width: 40%;
+  margin: auto;
+}
     
-}
-aside p {
-  font-family: "Gadugi"
-}
