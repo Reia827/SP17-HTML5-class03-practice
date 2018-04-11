@@ -43,3 +43,14 @@ img {
 .highlight {
   background-color: salmon; padding: 25rem
 }/* */
+aside p {
+  padding: 2rem;
+  background-color: lavender;
+    width: 40%;
+  margin:auto
+}
+.amedment-title {
+  color: skyblue;
+  text-align: center;
+  font-size: 2rem;
+}
